@@ -1,0 +1,38 @@
+---
+title: "A brief note about me"
+about:
+  id: hero-heading
+  template: broadside
+  image: bio.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+### This content appears above the formatted about page content.
+
+:::{#hero-heading}
+
+Matthew is a PhD student at the [School of Criminology and Criminal Justice at Arizona State University](https://ccj.asu.edu/)
+
+## Education
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+:::
+
+### This content appears below the formatted about page content.
