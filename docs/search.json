@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "police.html",
+    "href": "police.html",
+    "title": "How big of a problem is drunk driving?",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n \n\n\nAbout Open Criminlogy - El Paso, Texas\n\n\n \n\n\n\n\nDec 21, 2025\n\n\nHow big of a problem is drunk driving?\n\n\nMatthew Duran\n\n\n\n\nDec 21, 2025\n\n\nHow big of a problem is drunk driving?\n\n\nMatthew Duran\n\n\n\n\nDec 21, 2025\n\n\nHow many people drink and drive in El Paso, Texas?\n\n\n \n\n\n\n\n \n\n\nOpen Criminology: El Paso, Texas\n\n\n \n\n\n\n\n \n\n\nmattduran12.github.io\n\n\n \n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "mattduran12.github.io",
@@ -7,67 +14,11 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Open Science Criminology",
-    "section": "",
-    "text": "This content appears above the formatted about page content.\n\n  \n    \n    \n\n  \n  \n  \n    \n     twitter\n  \n  \n    \n     Github\n  \n\n\n\n\n\nThis content appears below the formatted about page content."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Open Science EPTX",
-    "section": "",
-    "text": "Arizona State University | Phoenix, Arizona PhD in Criminology & Criminal Justice | August 2023 - Present\nUniversity of Texas at El Paso | El Paso, Texas M.S. in Criminology & Criminal Justice B.A. in Criminal Justice"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "A brief note about me",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "about.html#work-experience",
-    "href": "about.html#work-experience",
-    "title": "Open Science EPTX",
-    "section": "",
-    "text": "Research Assistant, Center for Violence Prevention and Community Solutions\nCrime Analyst, El Paso Police Department\nOwner/Private Investigator, Volare Investigations\nDetention Officer, El Paso County Sheriff’s Office"
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "Open Criminology: El Paso, Texas",
-    "section": "",
-    "text": "a website dedicated to sharing criminal justice-related research."
-  },
-  {
     "objectID": "dwi-home.html",
     "href": "dwi-home.html",
     "title": "How many people drink and drive in El Paso, Texas?",
     "section": "",
-    "text": "In the year 2023, 752,449 people were arrested in the United States for driving under the influence.1 Although the number seems high, most people recognize DWI arrests only show the people who were caught–the tip of the iceberg. But just how much of the iceberg are we seeing? In total, how many people drink and drive? According to a national survey that same year, an estimated 15.6 million people admitted they drove under the influence.2 That means law enforcement agencies arrested about 4.8% of the offending population \\(\\frac{752,449}{15,600,000}\\). Keep in mind, however, that the 15.6 million people who admitted to drunk driving are being counted only once (they were asked if they ever drank and drove, not how many times they did it during the year). Data from another national survey was able uncover the frequency of drunk driving, estimating the total number of drunk driving episodes in a year could be as high as 256 million.3 Using this number changes the proportion of people arrested for drunk driving, from 4.8% to less than one percent (0.29%). As a country, we know the iceberg is more of an ice mountain, and if we use DWI arrests as our measure of how big it is, we are severely underestimating the magnitude of the problem.\nTurning now to the sun city, how does El Paso compare to these national estimates? How many El Pasoans drove drunk last year? How many times? Does the El Paso Police Department (EPPD) arrest 1, 4, or 8% of the people drunk driving in the city? The answer is no one knows. There has never been a city-wide effort to estimate the prevalence of drunk driving. That means the DWI arrests reported each week by the EPPD do not tell us just how much of the iceberg we are seeing. So what does DWI arrests tell us?\nDWI arrests tell us more about the response to the problem than the problem itself. Changes in arrests reflect changes in enforcement activity, not the behavior we seek to change. Understanding the difference between DWI arrests and DWI behavior is important, as both are often confused with one another. To help explain the difference, take the following example: imagine a police department doubled their capacity for DWI arrests, increasing from 30 arrests in one week to 60 arrests the following week. Does this increase mean twice as many people were out drinking and driving? Not necessarily. In fact, DWI arrests is not the right information we need to answer this question because we have no idea how many people were actually out drinking and driving. What we do know in this example is the police department doubled their number of arrests in one week. The reasons for the increase might be explained by increased staffing or having patrol officers dedicating more time to traffic enforcement. In these cases, the offending population could have remained the same, while the enforcement activity by the department increased. On the other hand, if DWI arrests decreased from 60 to 45, again, it would not necessarily mean that less people were drunk driving. The decrease may be explained by the same reasons just mentioned.\nBy now, it should be clear that DWI behavior is the problem we are concerned with changing; we hope that fewer people will be driving intoxicated. But if DWI arrests is not a good measure of the problem, what is? Well, the survey mentioned earlier proposes one solution: just ask people if and how often they drive drunk. Now, you might be thinking, Hold on. I don’t remember being asked by someone if I drove drunk last year. Those survey numbers can’t be correct; how do they know? The answer might sound unusual: the researchers who administered the survey didn’t actually ask all 300 million Americans about drunk driving; they only asked about 70,000 (You read that right). The reason they do not survey everyone is because it’s expensive, and they don’t have to (it’s not because they’re lazy or stubborn). Researchers only need to use a little bit of statistics to figure out how many people in a population are needed to obtain what is called a representative sample: a group of people that reflect the population they are interested in studying. For example, when the presidential election approaches, many voters have already made up their mind on who to vote for. Rather than wait, some researcher companies, such as Gallup, will randomly select a group of people in a city or state and ask if they are voting for candidate A or candidate B. The results of their survey give a proportion (e.g., 46% said candidate A and 54% said candidate B). Using a simple statistical technique, the researchers calculate what is called a margin of error to show how certain or trustworthy their estimate is (looks something like this: \\(\\pm\\) 2%). If their margin of error calculated to plus and minus 2 percent, then they would make the following statement: “We estimate that 44 to 48% of the population will vote for candidate A, and 52 to 56% of the population will vote for candidate B”. Pretty cool right?\nSurveying 70,000 people is appropriate for estimating a variety of characteristics across an entire country. For a city of less than 700,000 people, however, far less people are needed. Although the minimum size of the sample is determined by several factors and requires careful planning, it is not unusual for researchers to find they only need 600 people to make useful estimations. For example, imagine a city-wide survey was conducted in El Paso, and the researchers asked participants about their drunk driving behavior, as well as other questions that could be useful. At the end of that effort, we can have the ability to say “This is our estimate of how many people admitted to DWI in the year 2026.” COnducting this kind of survey on a yearly basis gives us data over time, which tells us not only how big the problem is but how it is changing. Although conducting a survey would require a little bit of funding, the effort would give us, as a city, a more objective measure of the DWI problem. No longer would the DWI problem be a myth, but a studied problem that we know is either getting worse, staying the same, or hopefully getting better.\nAlcohol-impaired driving is a significant problem in El Paso, Texas. Understanding patterns, prevalence, and trends helps inform policy and prevention strategies (Elder et al., 2004).\n\n\n\nElder, R., Shults, R., Sleet, D., Nichols, J., Zaza, S., & Thompson, R. (2004). Effectiveness of mass media campaigns for reducing drinking and driving and alcohol-involved crashes. American Journal of Preventive Medicine, 27(1), 57–65."
-  },
-  {
-    "objectID": "dwi-home.html#introduction",
-    "href": "dwi-home.html#introduction",
-    "title": "Drunk Driving in El Paso: What Do We Know?",
-    "section": "",
-    "text": "Alcohol-impaired driving is a significant problem in El Paso, Texas. Understanding patterns, prevalence, and trends helps inform policy and prevention strategies (Elder et al., 2004).\nPublic awareness and law enforcement interventions have varying impacts on driving behavior.1"
-  },
-  {
-    "objectID": "dwi-home.html#data-and-methods",
-    "href": "dwi-home.html#data-and-methods",
-    "title": "How big of a problem is drunk driving?",
-    "section": "Data and Methods",
-    "text": "Data and Methods\nThe analysis draws on data from local traffic records spanning multiple years, including:\n\nMonthly crash reports\nAlcohol-related violations\nArrest records"
-  },
-  {
-    "objectID": "dwi-home.html#endnotes",
-    "href": "dwi-home.html#endnotes",
-    "title": "Drunk Driving in El Paso: What Do We Know?",
-    "section": "3 Endnotes",
-    "text": "3 Endnotes"
+    "text": "In the year 2023, 752,449 people were arrested in the United States for driving under the influence.1 Although the number seems high, most people recognize DWI arrests only show the people who were caught–the tip of the iceberg. But just how much of the iceberg are we seeing? In total, how many people drink and drive? According to a national survey that same year, an estimated 15.6 million people admitted they drove under the influence.2 That means law enforcement agencies arrested about 4.8% of the offending population \\((\\frac{752,449}{15,600,000})\\). Keep in mind, however, that the 15.6 million people who admitted to drunk driving are being counted only once (they were asked if they ever drank and drove, not how many times they did it during the year). Data from another national survey was able uncover the frequency of drunk driving, estimating the total number of drunk driving episodes in a year could be as high as 256 million.3 Using this number changes the proportion of people arrested for drunk driving, from 4.8% to less than one percent (0.29%). As a country, we know the iceberg is more of an ice mountain, and if we use DWI arrests as our measure of how big it is, we are severely underestimating the magnitude of the problem.\nTurning now to the sun city, how does El Paso compare to these national estimates? How many El Pasoans drove drunk last year? How many times? Does the El Paso Police Department (EPPD) arrest 1, 4, or 8% of the people drunk driving in the city? The answer is no one knows. There has never been a city-wide effort to estimate the prevalence of drunk driving. That means the DWI arrests reported each week by the EPPD do not tell us just how much of the iceberg we are seeing. So what does DWI arrests tell us?\nDWI arrests tell us more about the response to the problem than the problem itself. Changes in arrests reflect changes in enforcement activity, not the behavior we seek to change. Understanding the difference between DWI arrests and DWI behavior is important, as both are often confused with one another. To help explain the difference, take the following example: imagine a police department doubled their capacity for DWI arrests, increasing from 30 arrests in one week to 60 arrests the following week. Does this increase mean twice as many people were out drinking and driving? Not necessarily. In fact, DWI arrests is not the right information we need to answer this question because we have no idea how many people were actually out drinking and driving. What we do know in this example is the police department doubled their number of arrests in one week. The reasons for the increase might be explained by increased staffing or having patrol officers dedicating more time to traffic enforcement. In these cases, the offending population could have remained the same, while the enforcement activity by the department increased. On the other hand, if DWI arrests decreased from 60 to 45, again, it would not necessarily mean that less people were drunk driving. The decrease may be explained by the same reasons just mentioned.\nBy now, it should be clear that DWI behavior is the problem we are concerned with changing; we hope that fewer people will be driving intoxicated. But if DWI arrests is not a good measure of the problem, what is? Well, the survey mentioned earlier proposes one solution: just ask people if and how often they drive drunk. Now, you might be thinking, Hold on. I don’t remember being asked by someone if I drove drunk last year. Those survey numbers can’t be correct; how do they know? The answer might sound unusual: the researchers who administered the survey didn’t actually ask all 300 million Americans about drunk driving; they only asked about 70,000 (You read that right). The reason they do not survey everyone is because it’s expensive, and they don’t have to (it’s not because they’re lazy or stubborn). Researchers only need to use a little bit of statistics to figure out how many people in a population are needed to obtain what is called a representative sample: a group of people that reflect the population they are interested in studying. For example, when the presidential election approaches, many voters have already made up their mind on who to vote for. Rather than wait, some researcher companies, such as Gallup, will randomly select a group of people in a city or state and ask if they are voting for candidate A or candidate B. The results of their survey give a proportion (e.g., 46% said candidate A and 54% said candidate B). Using a simple statistical technique, the researchers calculate what is called a margin of error to show how certain or trustworthy their estimate is (looks something like this: \\(\\pm\\) 2%). If their margin of error calculated to plus and minus 2 percent, then they would make the following statement: “We estimate that 44 to 48% of the population will vote for candidate A, and 52 to 56% of the population will vote for candidate B”. Pretty cool right?\nSurveying 70,000 people is appropriate for estimating a variety of characteristics across an entire country. For a city of less than 700,000 people, however, far less people are needed. Although the minimum size of the sample is determined by several factors and requires careful planning, it is not unusual for researchers to find they only need 600 people to make useful estimations. For example, imagine a city-wide survey was conducted in El Paso, and the researchers asked participants about their drunk driving behavior, as well as other questions that could be useful. At the end of that effort, we can have the ability to say “This is our estimate of how many people admitted to DWI in the year 2026.” COnducting this kind of survey on a yearly basis gives us data over time, which tells us not only how big the problem is but how it is changing. Although conducting a survey would require a little bit of funding, the effort would give us, as a city, a more objective measure of the DWI problem. No longer would the DWI problem be a myth, but a studied problem that we know is either getting worse, staying the same, or hopefully getting better."
   },
   {
     "objectID": "dwi-home.html#footnotes",
@@ -75,41 +26,6 @@
     "title": "How many people drink and drive in El Paso, Texas?",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nArrest counts can be found on the Federal Bureau of Investigation’s Crime Data Explorer.↩︎\nThe survey is called the National Survey on Drug Use and Health. The survey item measuring drunk driving is During the past 12 months, have you driven a vehicle while under the influence of alcohol?. The data can now be quiered online using this link.↩︎\nThe estimate comes from a report by the Centers for Disease Control and Prevention (CDC)↩︎"
-  },
-  {
-    "objectID": "dwi-home.html#section",
-    "href": "dwi-home.html#section",
-    "title": "How big of a problem is drunk driving?",
-    "section": "",
-    "text": "[Present arrests]\n[Open with iceberg analogy]\n[show logic model]\nAlcohol-impaired driving is a significant problem in El Paso, Texas. Understanding patterns, prevalence, and trends helps inform policy and prevention strategies (Elder et al., 2004).\nPublic awareness and law enforcement interventions have varying impacts on driving behavior.1"
-  },
-  {
-    "objectID": "dwi-trends.html",
-    "href": "dwi-trends.html",
-    "title": "How big of a problem is drunk driving?",
-    "section": "",
-    "text": "What is my argument?!\n[Present arrests]\n[Open with iceberg analogy]\n[show logic model]\nAlcohol-impaired driving is a significant problem in El Paso, Texas. Understanding patterns, prevalence, and trends helps inform policy and prevention strategies (Elder et al., 2004).\nPublic awareness and law enforcement interventions have varying impacts on driving behavior.1"
-  },
-  {
-    "objectID": "dwi-trends.html#footnotes",
-    "href": "dwi-trends.html#footnotes",
-    "title": "How big of a problem is drunk driving?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nSee Fryer (2016) for analysis on policing and alcohol-related offenses.↩︎"
-  },
-  {
-    "objectID": "dwi-research.html",
-    "href": "dwi-research.html",
-    "title": "How big of a problem is drunk driving?",
-    "section": "",
-    "text": "What is my argument?!\n[Present arrests]\n[Open with iceberg analogy]\n[show logic model]\nAlcohol-impaired driving is a significant problem in El Paso, Texas. Understanding patterns, prevalence, and trends helps inform policy and prevention strategies (Elder et al., 2004).\nPublic awareness and law enforcement interventions have varying impacts on driving behavior.1"
-  },
-  {
-    "objectID": "dwi-research.html#footnotes",
-    "href": "dwi-research.html#footnotes",
-    "title": "How big of a problem is drunk driving?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nSee Fryer (2016) for analysis on policing and alcohol-related offenses.↩︎"
   },
   {
     "objectID": "dwi-findings.html",
@@ -140,11 +56,11 @@
     "text": "Footnotes\n\n\nSee Fryer (2016) for analysis on policing and alcohol-related offenses.↩︎"
   },
   {
-    "objectID": "dwi-home.html#what-do-we-know-about-dwi-in-el-paso-texas",
-    "href": "dwi-home.html#what-do-we-know-about-dwi-in-el-paso-texas",
-    "title": "Driving While Intoxicated (DWI)",
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Open Criminology: El Paso, Texas",
     "section": "",
-    "text": "History of DWI in El Paso, Texas\n\nIntoxicated driving with the advent of the motor vehicle\nYear it was criminalized\n\n\n\n\n\n\nWhat is my argument?!\n\nProblem: Drunk driving is a national problem\n\nProperty damage, personal injuries, and death statistics\n\n\nSolution: Prevalence estimates\n\nGap: We don’t know how many people drive drunk in El Paso.\n\n\n[Present arrests]\n[Open with iceberg analogy]\n[show logic model]\nAlcohol-impaired driving is a significant problem in El Paso, Texas. Understanding patterns, prevalence, and trends helps inform policy and prevention strategies (Elder et al., 2004).\nPublic awareness and law enforcement interventions have varying impacts on driving behavior.1"
+    "text": "a website dedicated to sharing criminal justice-related research."
   },
   {
     "objectID": "open-science.html",
@@ -159,61 +75,5 @@
     "title": "About Open Criminlogy - El Paso, Texas",
     "section": "",
     "text": "Research Questions\nData\nAnalytic Strategy\nResults"
-  },
-  {
-    "objectID": "dwi-home.html#how-prevalent-is-drunk-driving-in-el-paso-hint-its-not-the-number-of-dwi-arrests",
-    "href": "dwi-home.html#how-prevalent-is-drunk-driving-in-el-paso-hint-its-not-the-number-of-dwi-arrests",
-    "title": "Driving While Intoxicated (DWI)",
-    "section": "",
-    "text": "Most people recognize the number of people arrested for DWI is just the tip of the iceberg. According to a [federal survey] in the year [year], anywhere between XXX,XXX and XXX,XXX people admitted to driving under the influence during the past year. If you compare that range to the XXXX people arrested nationwide for driving while intoxicated, the annual total DWI arrests only shows us X.XX% percent of the offending population. Even though we only see a small proportion, does an increase in arrests mean more people are drunk driving? Or in contrast, does a decrease in arrests mean less people are drunk driving?\nThe answer is no. The total DWI arrests by a police agency is a measure of the response to the problem, not the problem itself. A plot helps illustrate this point. Figure 1 shows two hypothetical trends: the total DWI arrests (blue line) and the true total number of people driving while intoxicated (red line). In this example, we assume the total people were drunk driving every week remains unchanged. For the police department, however, we assume the department was able to obtain 10 additional officers every week who were available to affect DWI arrests.\n\n\n\n\n\n\n\n\nFigure 1: Hypothetical Trends in DWI Arrests and True DWI Incidence\n\n\n\n\n\nAs the trend in enforcement activity shows, even if a department were to increase it’s capacity for DWI enforcement, the activity tells us nothing about the true number of people actually offending. Therefore, DWI arrests measure the capacity of a police department to respond to the DWI problem.\nThat means, as a nation, law enforcement agencies would need to increase enforcement activity X fold to catch just half of all people drinking and driving."
-  },
-  {
-    "objectID": "dwi-home.html#what-we-know-about-dwi-in-el-paso",
-    "href": "dwi-home.html#what-we-know-about-dwi-in-el-paso",
-    "title": "Driving While Intoxicated (DWI)",
-    "section": "What we know about DWI in El Paso",
-    "text": "What we know about DWI in El Paso\n\nHistory of DWI in El Paso, Texas\n\nIntoxicated driving with the advent of the motor vehicle\nYear it was criminalized in Texas\n\nLegislative updates required systematic reporting\n\nMotor Vehicle Accident Reports by the Texas Department of Transportation\n\n\n\nAlcohol-related crash trends in the city of El Paso\n\n\nCharacteristics of alcohol-related crashes\n\n\nCharacteristics of drivers involved in alcohol-related crashes\n\n\nCharacteristics of"
-  },
-  {
-    "objectID": "dwi-home.html#what-we-dont-know",
-    "href": "dwi-home.html#what-we-dont-know",
-    "title": "How prevalent is drunk driving?",
-    "section": "What we don’t know",
-    "text": "What we don’t know\n\n\n\nWhat is my argument?!\n\nProblem: Drunk driving is a national problem\n\nProperty damage, personal injuries, and death statistics\n\n\nSolution: Prevalence estimates\n\nGap: We don’t know how many people drive drunk in El Paso.\n\n\n[Present arrests]\n[Open with iceberg analogy]\n[show logic model]\nAlcohol-impaired driving is a significant problem in El Paso, Texas. Understanding patterns, prevalence, and trends helps inform policy and prevention strategies (Elder et al., 2004).\n\nElder, R., Shults, R., Sleet, D., Nichols, J., Zaza, S., & Thompson, R. (2004). Effectiveness of mass media campaigns for reducing drinking and driving and alcohol-involved crashes. American Journal of Preventive Medicine, 27(1), 57–65.\nPublic awareness and law enforcement interventions have varying impacts on driving behavior.4"
-  },
-  {
-    "objectID": "dwi-home.html#alcohol-related-crash-trends-in-the-city-of-el-paso",
-    "href": "dwi-home.html#alcohol-related-crash-trends-in-the-city-of-el-paso",
-    "title": "How prevalent is drunk driving?",
-    "section": "Alcohol-related crash trends in the city of El Paso",
-    "text": "Alcohol-related crash trends in the city of El Paso"
-  },
-  {
-    "objectID": "dwi-home.html#characteristics-of-alcohol-related-crashes",
-    "href": "dwi-home.html#characteristics-of-alcohol-related-crashes",
-    "title": "How prevalent is drunk driving?",
-    "section": "Characteristics of alcohol-related crashes",
-    "text": "Characteristics of alcohol-related crashes"
-  },
-  {
-    "objectID": "dwi-home.html#characteristics-of-drivers-involved-in-alcohol-related-crashes",
-    "href": "dwi-home.html#characteristics-of-drivers-involved-in-alcohol-related-crashes",
-    "title": "How prevalent is drunk driving?",
-    "section": "Characteristics of drivers involved in alcohol-related crashes",
-    "text": "Characteristics of drivers involved in alcohol-related crashes"
-  },
-  {
-    "objectID": "dwi-home.html#characteristics-of",
-    "href": "dwi-home.html#characteristics-of",
-    "title": "How prevalent is drunk driving?",
-    "section": "Characteristics of",
-    "text": "Characteristics of"
-  },
-  {
-    "objectID": "police.html",
-    "href": "police.html",
-    "title": "How big of a problem is drunk driving?",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n \n\n\nAbout Open Criminlogy - El Paso, Texas\n\n\n \n\n\n\n\nDec 21, 2025\n\n\nHow big of a problem is drunk driving?\n\n\nMatthew Duran\n\n\n\n\nDec 21, 2025\n\n\nHow big of a problem is drunk driving?\n\n\nMatthew Duran\n\n\n\n\nDec 21, 2025\n\n\nHow prevalent is drunk driving?\n\n\n \n\n\n\n\n \n\n\nOpen Criminology: El Paso, Texas\n\n\n \n\n\n\n\n \n\n\nmattduran12.github.io\n\n\n \n\n\n\n\n\nNo matching items"
   }
 ]
