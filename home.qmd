@@ -9,5 +9,5 @@ about:
 ---
 
 ::: {#hero-heading}
-a website dedicated to sharing criminal justice-related research.
+a website dedicated to sharing knowledge.
 :::
