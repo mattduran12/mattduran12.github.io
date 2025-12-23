@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "police.html",
-    "href": "police.html",
-    "title": "How big of a problem is drunk driving?",
+    "objectID": "open-science.html",
+    "href": "open-science.html",
+    "title": "About Open Criminlogy - El Paso, Texas",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n \n\n\nAbout Open Criminlogy - El Paso, Texas\n\n\n \n\n\n\n\nDec 21, 2025\n\n\nHow big of a problem is drunk driving?\n\n\nMatthew Duran\n\n\n\n\nDec 21, 2025\n\n\nHow big of a problem is drunk driving?\n\n\nMatthew Duran\n\n\n\n\nDec 21, 2025\n\n\nHow many people drink and drive in El Paso, Texas?\n\n\n \n\n\n\n\n \n\n\nOpen Criminology: El Paso, Texas\n\n\n \n\n\n\n\n \n\n\nmattduran12.github.io\n\n\n \n\n\n\n\n\nNo matching items"
+    "text": "Research Questions\nData\nAnalytic Strategy\nResults"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "mattduran12.github.io",
+    "objectID": "open-science.html#structure-of-website",
+    "href": "open-science.html#structure-of-website",
+    "title": "About Open Criminlogy - El Paso, Texas",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Research Questions\nData\nAnalytic Strategy\nResults"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Open Criminology: El Paso, Texas",
+    "section": "",
+    "text": "a website dedicated to sharing criminal justice-related research."
   },
   {
     "objectID": "dwi-home.html",
@@ -28,52 +35,10 @@
     "text": "Footnotes\n\n\nArrest counts can be found on the Federal Bureau of Investigation’s Crime Data Explorer.↩︎\nThe survey is called the National Survey on Drug Use and Health. The survey item measuring drunk driving is During the past 12 months, have you driven a vehicle while under the influence of alcohol?. The data can now be quiered online using this link.↩︎\nThe estimate comes from a report by the Centers for Disease Control and Prevention (CDC)↩︎"
   },
   {
-    "objectID": "dwi-findings.html",
-    "href": "dwi-findings.html",
-    "title": "How big of a problem is drunk driving?",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mattduran12.github.io",
     "section": "",
-    "text": "What is my argument?!\n[Present arrests]\n[Open with iceberg analogy]\n[show logic model]\nAlcohol-impaired driving is a significant problem in El Paso, Texas. Understanding patterns, prevalence, and trends helps inform policy and prevention strategies (Elder et al., 2004).\nPublic awareness and law enforcement interventions have varying impacts on driving behavior.1"
-  },
-  {
-    "objectID": "dwi-findings.html#footnotes",
-    "href": "dwi-findings.html#footnotes",
-    "title": "How big of a problem is drunk driving?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nSee Fryer (2016) for analysis on policing and alcohol-related offenses.↩︎"
-  },
-  {
-    "objectID": "dwi-forward.html",
-    "href": "dwi-forward.html",
-    "title": "How big of a problem is drunk driving?",
-    "section": "",
-    "text": "What is my argument?!\n[Present arrests]\n[Open with iceberg analogy]\n[show logic model]\nAlcohol-impaired driving is a significant problem in El Paso, Texas. Understanding patterns, prevalence, and trends helps inform policy and prevention strategies (Elder et al., 2004).\nPublic awareness and law enforcement interventions have varying impacts on driving behavior.1"
-  },
-  {
-    "objectID": "dwi-forward.html#footnotes",
-    "href": "dwi-forward.html#footnotes",
-    "title": "How big of a problem is drunk driving?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nSee Fryer (2016) for analysis on policing and alcohol-related offenses.↩︎"
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "Open Criminology: El Paso, Texas",
-    "section": "",
-    "text": "a website dedicated to sharing criminal justice-related research."
-  },
-  {
-    "objectID": "open-science.html",
-    "href": "open-science.html",
-    "title": "About Open Criminlogy - El Paso, Texas",
-    "section": "",
-    "text": "Research Questions\nData\nAnalytic Strategy\nResults"
-  },
-  {
-    "objectID": "open-science.html#structure-of-website",
-    "href": "open-science.html#structure-of-website",
-    "title": "About Open Criminlogy - El Paso, Texas",
-    "section": "",
-    "text": "Research Questions\nData\nAnalytic Strategy\nResults"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]

@@ -18,10 +18,6 @@ website:
             href: purpose.qmd
       - text: "Research Archive" 
         href: research.qmd
-        menu: 
-          - text: "Policing"
-            href: police.qmd
-
       - text: "Crime"
         menu:
           - text: "Driving While Intoxicated (DWI)"
