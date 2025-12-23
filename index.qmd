@@ -1,11 +1,13 @@
 ---
-title: "mattduran12.github.io"
+title: "Open Criminology: El Paso, Texas"
+subtitle: "Evidence-Based Research for Public Safety in the Borderland"
+about:
+  id: hero-heading
+  template: jolla
+  image: logo.png
+  image-width: 300px
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+::: {#hero-heading}
+a website dedicated to sharing knowledge.
+:::

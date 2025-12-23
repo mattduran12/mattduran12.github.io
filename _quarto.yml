@@ -9,7 +9,7 @@ website:
     search: true
     left:
       - text: "Home"
-        href: home.qmd
+        href: index.qmd
       - text: "About OCEP"
         menu: 
           - text: "What is open criminology?" 
