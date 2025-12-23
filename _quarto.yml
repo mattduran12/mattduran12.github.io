@@ -5,14 +5,33 @@ project:
 website:
   title: ""
   navbar:
+    background: primary
+    search: true
     left:
       - text: "Home"
-        href: about.qmd
+        href: home.qmd
+      - text: "About OCEP"
+        menu: 
+          - text: "What is open criminology?" 
+            href: open-science.qmd
+          - text: "Purpose" 
+            href: purpose.qmd
+      - text: "Research Archive" 
+        href: research.qmd
+        menu: 
+          - text: "Policing"
+            href: police.qmd
+
+      - text: "Crime"
+        menu:
+          - text: "Driving While Intoxicated (DWI)"
+            href: dwi-home.qmd
+
 
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styles2.css
     toc: false
 
 editor: visual

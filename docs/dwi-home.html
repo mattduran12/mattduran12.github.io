@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="">
+<meta name="dcterms.date" content="2025-12-21">
 
-<title>Open Science Criminology</title>
+<title>dwi-home</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +22,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -33,6 +55,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -66,11 +89,40 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles2.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -83,17 +135,39 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./home.qmd"> 
+    <a class="nav-link" href="./home.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./open-science.qmd"> 
-<span class="menu-text">What is Open Science?</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-ocep" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About OCEP</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about-ocep">    
+        <li>
+    <a class="dropdown-item" href="./open-science.html">
+ <span class="dropdown-text">What is open criminology?</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./dwi-home.qmd"> 
-<span class="menu-text">Drunk Driving in El Paso</span></a>
+        <li>
+    <a class="dropdown-item" href="./purpose.qmd">
+ <span class="dropdown-text">Purpose</span></a>
   </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./research.qmd"> 
+<span class="menu-text">Research Archive</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-crime" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Crime</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-crime">    
+        <li>
+    <a class="dropdown-item" href="./dwi-home.html">
+ <span class="dropdown-text">Driving While Intoxicated (DWI)</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -105,49 +179,66 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul class="collapse">
+  <li><a href="#how-many-people-drink-and-drive-in-el-paso-texas" id="toc-how-many-people-drink-and-drive-in-el-paso-texas" class="nav-link active" data-scroll-target="#how-many-people-drink-and-drive-in-el-paso-texas">How many people drink and drive in El Paso, Texas?</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content page-columns page-full" id="quarto-document-content">
 
-
-
-
-<section id="this-content-appears-above-the-formatted-about-page-content." class="level3 page-columns page-full">
-<h3 data-anchor-id="this-content-appears-above-the-formatted-about-page-content.">This content appears above the formatted about page content.</h3>
-<div class="quarto-about-broadside column-page">
-  <div class="about-main">
-    <div class="about-entity" style="background-image: url('logo.png')"></div>
-    <div class="about-contents"><header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Open Science Criminology</h1>
-<p class="subtitle lead">El Paso, Texas</p>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">December 21, 2025</p>
+    </div>
   </div>
-</header><div id="hero-heading">
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="how-many-people-drink-and-drive-in-el-paso-texas" class="level1 page-columns page-full">
+<h1>How many people drink and drive in El Paso, Texas?</h1>
+<p>In the year 2023, 752,449 people were arrested in the United States for driving under the influence.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> Although the number seems high, most people recognize DWI arrests only show the people who were caught–the tip of the iceberg. But just how much of the iceberg are we seeing? In total, how many people drink and drive? According to a national survey that same year, an estimated 15.6 million people admitted they drove under the influence.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> That means law enforcement agencies arrested about 4.8% of the offending population <span class="math inline">\(\frac{752,449}{15,600,000}\)</span>. Keep in mind, however, that the 15.6 million people who admitted to drunk driving are being counted only once (they were asked if they ever drank and drove, not how many times they did it during the year). Data from another national survey was able uncover the frequency of drunk driving, estimating the total number of drunk driving episodes in a year could be as high as 256 million.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> Using this number changes the proportion of people arrested for drunk driving, from 4.8% to less than one percent (0.29%). As a country, we know the iceberg is more of an ice mountain, and if we use DWI arrests as our measure of how big it is, we are severely underestimating the magnitude of the problem.</p>
+<p>Turning now to the sun city, how does El Paso compare to these national estimates? How many El Pasoans drove drunk last year? How many times? Does the El Paso Police Department (EPPD) arrest 1, 4, or 8% of the people drunk driving in the city? The answer is no one knows. <strong>There has never been a city-wide effort to estimate the prevalence of drunk driving.</strong> That means the DWI arrests reported each week by the EPPD do not tell us just how much of the iceberg we are seeing. So what does DWI arrests tell us?</p>
+<p>DWI arrests tell us more about the response to the problem than the problem itself. Changes in arrests reflect changes in enforcement activity, not the behavior we seek to change. Understanding the difference between DWI arrests and DWI behavior is important, as both are often confused with one another. To help explain the difference, take the following example: imagine a police department doubled their capacity for DWI arrests, increasing from 30 arrests in one week to 60 arrests the following week. Does this increase mean twice as many people were out drinking and driving? Not necessarily. In fact, DWI arrests is not the right information we need to answer this question because we have no idea how many people were actually out drinking and driving. What we do know in this example is the police department doubled their number of arrests in one week. The reasons for the increase might be explained by increased staffing or having patrol officers dedicating more time to traffic enforcement. In these cases, the offending population could have remained the same, while the enforcement activity by the department increased. On the other hand, if DWI arrests decreased from 60 to 45, again, it would not necessarily mean that less people were drunk driving. The decrease may be explained by the same reasons just mentioned.</p>
+<p>By now, it should be clear that DWI behavior is the problem we are concerned with changing; we hope that fewer people will be driving intoxicated. But if DWI arrests is not a good measure of the problem, what is? Well, the survey mentioned earlier proposes one solution: just ask people if and how often they drive drunk. Now, you might be thinking, <em>Hold on. I don’t remember being asked by someone if I drove drunk last year. Those survey numbers can’t be correct; how do they know?</em> The answer might sound unusual: the researchers who administered the survey didn’t actually ask all 300 million Americans about drunk driving; they only asked about 70,000 (You read that right). The reason they do not survey everyone is because it’s expensive, and they don’t have to (it’s not because they’re lazy or stubborn). Researchers only need to use a little bit of statistics to figure out how many people in a population are needed to obtain what is called a <em>representative sample</em>: a group of people that reflect the population they are interested in studying. For example, when the presidential election approaches, many voters have already made up their mind on who to vote for. Rather than wait, some researcher companies, such as Gallup, will randomly select a group of people in a city or state and ask if they are voting for candidate A or candidate B. The results of their survey give a proportion (e.g., 46% said candidate A and 54% said candidate B). Using a simple statistical technique, the researchers calculate what is called a <em>margin of error</em> to show how certain or trustworthy their estimate is (looks something like this: <span class="math inline">\(\pm\)</span> 2%). If their margin of error calculated to plus and minus 2 percent, then they would make the following statement: “We estimate that 44 to 48% of the population will vote for candidate A, and 52 to 56% of the population will vote for candidate B”. Pretty cool right?</p>
+<p>Surveying 70,000 people is appropriate for estimating a variety of characteristics across an entire country. For a city of less than 700,000 people, however, far less people are needed. Although the minimum size of the sample is determined by several factors and requires careful planning, it is not unusual for researchers to find they only need 600 people to make useful estimations. For example, imagine a city-wide survey was conducted in El Paso, and the researchers asked participants about their drunk driving behavior, as well as other questions that could be useful. At the end of that effort, we can have the ability to say “This is our estimate of how many people admitted to DWI in the year 2026.” COnducting this kind of survey on a yearly basis gives us data over time, which tells us not only how big the problem is but how it is changing. Although conducting a survey would require a little bit of funding, the effort would give us, as a city, a more objective measure of the DWI problem. No longer would the DWI problem be a myth, but a studied problem that we know is either getting worse, staying the same, or hopefully getting better.</p>
+<p>Alcohol-impaired driving is a significant problem in El Paso, Texas. Understanding patterns, prevalence, and trends helps inform policy and prevention strategies <span class="citation" data-cites="Elder2004">(<a href="#ref-Elder2004" role="doc-biblioref">Elder et al., 2004</a>)</span>.</p>
+
+
+<div class="no-row-height column-margin column-container"><div id="ref-Elder2004" class="csl-entry" role="listitem">
+Elder, R., Shults, R., Sleet, D., Nichols, J., Zaza, S., &amp; Thompson, R. (2004). Effectiveness of mass media campaigns for reducing drinking and driving and alcohol-involved crashes. <em>American Journal of Preventive Medicine</em>, <em>27</em>(1), 57–65.
 </div></div>
-  </div>
-  <div class="about-links">
-  <a href="https://twitter.com" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">twitter</span>
-  </a>
-  <a href="https://github.com" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-</div>
-</div>
-
-</section>
-<section id="this-content-appears-below-the-formatted-about-page-content." class="level3">
-<h3 data-anchor-id="this-content-appears-below-the-formatted-about-page-content.">This content appears below the formatted about page content.</h3>
-
-
-
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Arrest counts can be found on the Federal Bureau of Investigation’s <a href="https://cde.ucr.cjis.gov/">Crime Data Explorer</a>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>The survey is called the National Survey on Drug Use and Health. The survey item measuring drunk driving is <em>During the past 12 months, have you driven a vehicle while under the influence of alcohol?</em>. The data can now be quiered online using <a href="https://datatools.samhsa.gov/das/nsduh/2023/nsduh-2023-ds0001/crosstab?row=DRVINALCO2&amp;weight=ANALWT2_C">this link</a>.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>The estimate comes from a <a href="https://www.cdc.gov/impaired-driving/facts/index.html">report</a> by the Centers for Disease Control and Prevention (CDC)<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -168,6 +259,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
