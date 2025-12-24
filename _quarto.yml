@@ -10,12 +10,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About OCEP"
-        menu: 
-          - text: "What is open criminology?" 
-            href: open-science.qmd
-          - text: "Purpose" 
-            href: purpose.qmd
+      - text: "About"
+        href: about.qmd
       - text: "Research Archive" 
         href: research.qmd
       - text: "Crime"

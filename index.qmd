@@ -1,13 +1,16 @@
 ---
 title: "Open Criminology: El Paso, Texas"
-subtitle: "Evidence-Based Research for Public Safety in the Borderland"
 about:
-  id: hero-heading
   template: jolla
   image: logo.png
   image-width: 300px
 ---
 
-::: {#hero-heading}
-a website dedicated to sharing knowledge.
+::: {hero-header}
+bringing evidence-based research to improve public safety in the borderland
 :::
+
+
+This website is in it's early stages. 
+
+Please look forward to seeing improvements and additional content in the next three months.
