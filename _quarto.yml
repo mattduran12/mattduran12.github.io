@@ -14,8 +14,11 @@ website:
         href: about.qmd
       - text: "Research"
         menu:
-          - text: "Driving While Intoxicated (DWI)"
-            href: dwi-home.qmd
+        - text: "Driving While Intoxicated (DWI)"
+          href: dwi-home.qmd
+    right:
+      - text: "Contact Author"
+        href: me.qmd
 format:
   html:
     theme: cosmo
