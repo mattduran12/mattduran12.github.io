@@ -7,7 +7,7 @@ about:
 ---
 
 ::: {hero-header}
-bringing evidence-based research to improve public safety in the borderland
+sharing evidence-based research to improve public safety in the borderland
 :::
 
 
