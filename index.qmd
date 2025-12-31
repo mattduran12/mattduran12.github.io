@@ -11,6 +11,7 @@ about:
 I am a criminologist who provides technical assistance to government and non-government organizations on research projects.
 :::
 
+<div>
 
 For a complete list of reports and publications I contributed to, see my [Curriculum Vitae](cv.pdf). You can also find some of my work on [Google Scholar](https://scholar.google.com/citations?user=2QmrTPQAAAAJ&hl=en&oi=ao).
 
@@ -38,3 +39,4 @@ B.A. in Criminal Justice \| 2020
 
 **Detention Officer** \| El Paso County Sheriff's Office
 
+</div>
