@@ -5,43 +5,32 @@ about:
   template: broadside
   image: bio.jpg
   image-width: 200px
-    
 ---
 
-:::{#hero-heading}
-
-I am a criminologist focused on evidence-based public safety. 
+::: {#hero-heading}
+I am a criminologist focused on evidence-based public safety.
 
 To chat or discuss partnership opportunities, please send me an email at [mduran29\@asu.edu](mduran29@asu.edu)
 
-
 ## Education
 
-**Arizona State University** | Phoenix, AZ
+**Arizona State University** \| Phoenix, AZ
 
-PhD in Criminology & Criminal Justice | 2023 - *Present*
+PhD in Criminology & Criminal Justice \| 2023 - *Present*
 
-**University of Texas - El Paso** | El Paso, TX
+**University of Texas - El Paso** \| El Paso, TX
 
-M.S. in Criminology & Criminal Justice | 2023
+M.S. in Criminology & Criminal Justice \| 2023
 
-B.A. in Criminal Justice | 2020
-
-
+B.A. in Criminal Justice \| 2020
 
 ## Professional Experience
 
+**Research Assistant** \| [CVPCS](https://cvpcs.asu.edu/)
 
-**Research Assistant** | [CVPCS](https://cvpcs.asu.edu/)
+**Crime Analyst** \| El Paso Police Department
 
-**Crime Analyst** | El Paso Police Department
+**Private Investigator** \| Volare Investigations
 
-**Private Investigator** | Volare Investigations
-
-**Detention Officer** | El Paso County Sheriff's Office
-
+**Detention Officer** \| El Paso County Sheriff's Office
 :::
-
-
-
-

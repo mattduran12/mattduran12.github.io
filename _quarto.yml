@@ -13,7 +13,7 @@ website:
       - text: "Projects"
         menu:
           - text: "OCEPTX"
-            href: [link here]
+            href: https://mattduran12.github.io/OCEPTX
 format:
   html:
     theme: cosmo
