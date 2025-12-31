@@ -1,16 +1,47 @@
 ---
-title: "Open Criminology: El Paso, Texas"
+title: "Matthew J. Durán"
 about:
-  template: jolla
-  image: logo.png
-  image-width: 300px
+  id: hero-heading
+  template: broadside
+  image: bio.jpg
+  image-width: 200px
+    
 ---
 
-::: {hero-header}
-sharing evidence-based research to improve public safety in the borderland.
+:::{#hero-heading}
+
+I am a criminologist focused on evidence-based public safety. 
+
+To chat or discuss partnership opportunities, please send me an email at [mduran29\@asu.edu](mduran29@asu.edu)
+
+
+## Education
+
+**Arizona State University** | Phoenix, AZ
+
+PhD in Criminology & Criminal Justice | 2023 - *Present*
+
+**University of Texas - El Paso** | El Paso, TX
+
+M.S. in Criminology & Criminal Justice | 2023
+
+B.A. in Criminal Justice | 2020
+
+
+
+## Professional Experience
+
+
+**Research Assistant** | [CVPCS](https://cvpcs.asu.edu/)
+
+**Crime Analyst** | El Paso Police Department
+
+**Private Investigator** | Volare Investigations
+
+**Detention Officer** | El Paso County Sheriff's Office
+
 :::
 
 
-*This website is in it's early stages.*
 
-*Please look forward to seeing improvements and additional content in the next three months.*
+

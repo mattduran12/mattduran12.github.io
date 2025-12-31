@@ -3,22 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: ""
+  title: "Matthew J. Durán"
   navbar:
     background: primary
-    search: true
+    search: FALSE
     left:
-      - text: "Home"
-        href: index.qmd
-      - text: "About"
-        href: about.qmd
-      - text: "Research"
+      - text: "CV"
+        href: cv.pdf
+      - text: "Projects"
         menu:
-        - text: "Driving While Intoxicated (DWI)"
-          href: dwi-home.qmd
-    right:
-      - text: "Contact Author"
-        href: me.qmd
+          - text: "OCEPTX"
+            href: oceptx/index.qmd
 format:
   html:
     theme: cosmo
