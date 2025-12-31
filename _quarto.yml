@@ -13,7 +13,7 @@ website:
       - text: "Projects"
         menu:
           - text: "OCEPTX"
-            href: oceptx/index.qmd
+            href: oceptx/
 format:
   html:
     theme: cosmo
