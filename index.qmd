@@ -8,9 +8,13 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a criminologist focused on evidence-based public safety.
+I am a criminologist who provides technical assistance to government and non-government organizations on research projects.
+:::
 
-To chat or discuss partnership opportunities, please send me an email at [mduran29\@asu.edu](mduran29@asu.edu)
+
+For a complete list of reports and publications I contributed to, see my [Curriculum Vitae](cv.pdf). You can also find some of my work on [Google Scholar](https://scholar.google.com/citations?user=2QmrTPQAAAAJ&hl=en&oi=ao).
+
+To chat or discuss partnership opportunities, please send an email at [mduran29\@asu.edu](mduran29@asu.edu).
 
 ## Education
 
@@ -33,4 +37,4 @@ B.A. in Criminal Justice \| 2020
 **Private Investigator** \| Volare Investigations
 
 **Detention Officer** \| El Paso County Sheriff's Office
-:::
+

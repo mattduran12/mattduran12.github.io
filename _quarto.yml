@@ -14,6 +14,10 @@ website:
         menu:
           - text: "OCEPTX"
             href: https://mattduran12.github.io/OCEPTX
+            
+    right: 
+      - text: "Blog"
+        href: _blog.qmd
 format:
   html:
     theme: cosmo
