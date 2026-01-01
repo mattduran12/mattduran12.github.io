@@ -17,7 +17,6 @@ website:
             
     right: 
       - text: "Blog"
-        href: _blog.qmd
 format:
   html:
     theme: cosmo
