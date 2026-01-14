@@ -8,7 +8,7 @@ about:
 ---
 
 ::: {#hero-heading}
-a criminologist providing technical assistance to government and non-government organizations.
+a criminal justice researcher providing technical assistance to government and non-government organizations.
 
 For a complete list of reports and publications I contributed to, see my [Curriculum Vitae](cv.pdf). You can also find some of my work on [Google Scholar](https://scholar.google.com/citations?user=2QmrTPQAAAAJ&hl=en&oi=ao).
 
@@ -35,4 +35,7 @@ B.A. in Criminal Justice \| 2020
 **Private Investigator** \| Volare Investigations
 
 **Detention Officer** \| El Paso County Sheriff's Office
+
+## Areas of Specialization
+Police Staffing, Quasi/Experimental Research Design, Program evaluation, Crime prevention
 :::
