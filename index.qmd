@@ -10,7 +10,7 @@ about:
 ::: {#hero-heading}
 a criminal justice researcher providing technical assistance to government and non-government organizations.
 
-For a complete list of reports and publications I contributed to, see my [Curriculum Vitae](cv.pdf). You can also find some of my work on [Google Scholar](https://scholar.google.com/citations?user=2QmrTPQAAAAJ&hl=en&oi=ao).
+For a complete list of reports and publications I contributed to, see my [Curriculum Vitae](cv.pdf).
 
 To chat or discuss partnership opportunities, please send an email to [mduran29@asu.edu](mduran29@asu.edu).
 
