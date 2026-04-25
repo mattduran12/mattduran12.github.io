@@ -12,7 +12,7 @@ website:
         href: cv.pdf
       - text: "Projects"
         menu:
-          - text: "OCEPTX"
+          - text: "El Paso Crime Lab"
             href: https://mattduran12.github.io/OCEPTX
 format:
   html:
@@ -21,4 +21,5 @@ format:
     toc: false
 
 editor: visual
+
 

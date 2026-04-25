@@ -12,7 +12,7 @@ a criminal justice researcher providing technical assistance to government and n
 
 For a complete list of reports and publications I contributed to, see my [Curriculum Vitae](cv.pdf).
 
-To chat or discuss partnership opportunities, please send an email to [mduran29@asu.edu](mduran29@asu.edu).
+To chat or discuss partnership opportunities, please send an email to [mduran29\@asu.edu](mduran29@asu.edu).
 
 ## Education
 
@@ -37,5 +37,6 @@ B.A. in Criminal Justice \| 2020
 **Detention Officer** \| El Paso County Sheriff's Office
 
 ## Areas of Specialization
+
 Police Staffing, Quasi/Experimental Research Design, Program evaluation, Crime prevention
 :::
